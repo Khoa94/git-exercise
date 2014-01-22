@@ -6,5 +6,6 @@ public class HelloWorld
   main (String[] args) 
 {
   System.out.println ("Hello, GitHub 2nd time!");
+  System.out.println ("Exercise 13 of GitHub lab");
 } // main(String[])
 }
